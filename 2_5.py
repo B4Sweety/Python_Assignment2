@@ -18,3 +18,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+'''
+
+C:\Users\SWEETY\OneDrive\Desktop\Python_Assignments\Assignment_2>python 2_5.py
+Enter a number:
+5
+Prime number
+
+C:\Users\SWEETY\OneDrive\Desktop\Python_Assignments\Assignment_2>python 2_5.py
+Enter a number:
+6
+Not a prime number
+
+C:\Users\SWEETY\OneDrive\Desktop\Python_Assignments\Assignment_2>
+
+'''
